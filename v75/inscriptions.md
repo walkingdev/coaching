@@ -1,7 +1,7 @@
 ---
-title: Inscriptions ELM V-33
-description: Liste pour s'inscrire à la session ELM V-33
-image_url: https://github.com/walkingdev/elm/blob/master/v33/media/banner-elm.jpg?raw=true
+title: Inscriptions Coaching V-75
+description: Liste pour s'inscrire à la session ma première journée en tant que coach
+image_url: https://github.com/walkingdev/coaching/blob/master/v75/media/banner-coaching.jpg?raw=true
 ---
 
 #### Inscriptions

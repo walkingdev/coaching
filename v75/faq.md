@@ -1,7 +1,7 @@
 ---
-title: Faq ELM V-33
-description: Une petite exploration d'ELM sans frontale et sans baudrier du côté de Bordeaux.
-image_url: https://github.com/walkingdev/elm/blob/master/v33/media/banner-elm.jpg?raw=true
+title: Faq coaching V-75
+description: Une petite exploration pour le coaching
+image_url: https://github.com/walkingdev/coaching/blob/master/v75/media/banner-coaching.jpg?raw=true
 ---
 
 # Session ELM - V-33
