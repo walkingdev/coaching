@@ -4,26 +4,28 @@ description: Une petite exploration pour le coaching
 image_url: https://github.com/walkingdev/coaching/blob/master/v75/media/banner-coaching.jpg?raw=true
 ---
 
-# Session ELM - V-33
+# Session COACHING - V-75
 
 ## FAQ
 
 ### On va faire quoi ?
 
-L'idée c'est de découvrir [Elm](http://elm-lang.org/), en même temps que des endroits insolites.
+L'idée c'est d'échanger sur les premiers pas d'un coach ou futur coach, et en même temps visiter des endroits insolites.
 Dans un lieu, en binôme ou en groupe on explore une partie du sujet, via des petits ateliers, présentations, questionnements ou autres expérimentations puis on passe à l'endroit suivant.
 On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 15 décembre à 9h - [Au Partisan Café](https://www.facebook.com/PartisanCafeCapucins/) - marché des Capucins.
-Et, ça se termine vers 18h30 pour enchainer sur des trucs encore plus informels.
+La marche commencera le 31 août à 9h30 à Paris
+Et, ça se termine vers 19h pour enchainer sur des trucs encore plus informels.
 
 ### C'est pour qui ?
 
-- Les personnes impliquées ou curieuses de découvrir Elm.
-- Les développeuses et développeurs souhaitant chatouiller le paradigme fonctionnel sans se brûler.
-- Les hipsters et hipsteuses kiffant tester l'effet de leurs barbes en se baladant dans la cité.
+- Les personnes qui se disent "tiens, si je devenais coach"
+- Les coach juniors ou seniors qui veulent partager leur expérience
+- Les personnes qui se disent "les coach, encore un truc de charlatan !"
+
+Bref, vous l'aurez compris, tout le monde peut venir !
 
 ### Je me sens pas au niveau…
 
@@ -43,9 +45,9 @@ Au moins 2, maximum 10, probablement autour de 7.
 
 ### Il faut que je prévois des trucs ?
 
-En gros, il faut que tu prennes ton **laptop**, ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher et peut-être faire du vélo.
+En gros, il faut que tu prennes ta bonne humeur, de l’eau, des noisettes et de quoi t’habiller confortablement pour marcher, ton laptop si tu y tiens.
 
-Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/elm/blob/master/v33/prepare-ton-escapade.md)
+Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapade](http://walkingdev.fr/#walkingdev/coaching/blob/master/v75/prepare-ton-escapade.md)
 
 ### On marche beaucoup ?
 
@@ -57,9 +59,9 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 
-Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/elm/edit/master/v33/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'[inscriptions](http://walkingdev.fr/#walkingdev/elm/blob/master/v33/inscriptions.md).
+Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/coaching/edit/master/v75/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'[inscriptions](http://walkingdev.fr/#walkingdev/coaching/blob/master/v75/inscriptions.md).
 
-Tu peux aussi nous envoyer un petit mail :[stephane@scopyleft.fr](mailto:stephane@scopyleft.fr)
+Tu peux aussi nous envoyer un petit mail :[christophe@robiweb.net](mailto:christophe@robiweb.net)
 
 ### Ça coûte combien cette petite escapade ?
 
@@ -69,7 +71,7 @@ Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 
 ### Et où passe tout ce butin ?
 
-Difficile à dire aujourd’hui, vu qu’on en sait rien. Par contre tu peux te faire une bonne idée en regardant la " [compta](http://walkingdev.fr/#walkingdev/elm/blob/master/v34/budget.md)  " de la dernière session.  
+Difficile à dire aujourd’hui, vu qu’on en sait rien. Par contre tu peux te faire une bonne idée en regardant la " [compta](http://walkingdev.fr/#walkingdev/coaching/blob/master/v34/budget.md)  " de la dernière session.  
 
 ### Et si c’est trop cher pour moi ?
 
@@ -79,13 +81,13 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 
 Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens nous.
 
-### Pourquoi V-33 ?
+### Pourquoi V-75 ?
 
 C'est pas très explicite, mais en cherchant on trouve quand même facilement le pourquoi du comment.
 
 #### Et si j'ai une question ?
 
 Tu peux contacter :
-- Antoine - [@avernois](http://twitter.com/avernois) (dm ouvert)
+- Christophe - [@twitter](http://twitter.com/krichtof) (dm ouvert)
 ou
 - Stéphane - [@langlois_s](http://twitter.com/langlois_s) (dm ouvert aussi) 
