@@ -65,7 +65,7 @@ Tu peux aussi nous envoyer un petit mail :[christophe@robiweb.net](mailto:christ
 
 ### Ça coûte combien cette petite escapade ?
 
-59 € pour les particuliers, et 89 € HT si c’est ta boite qui paye.  
+50 € pour les particuliers, et 100 € HT si c’est ta boite qui paye.
 
 Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 
