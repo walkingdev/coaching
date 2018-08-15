@@ -12,3 +12,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/coaching/b
 * *nom - prénom - moyens de contact *
 * Robillard - Christophe - christophe@robiweb.net - @krichtof
 * Langlois - Stéphane - stephane@scopyleft.fr - @langlois_s
+* Blayo - Philippe - prénom point nom chez gmail point com - @pblayo
