@@ -89,5 +89,3 @@ C'est pas très explicite, mais en cherchant on trouve quand même facilement le
 
 Tu peux contacter :
 - Christophe - [@twitter](http://twitter.com/krichtof) (dm ouvert)
-ou
-- Stéphane - [@langlois_s](http://twitter.com/langlois_s) (dm ouvert aussi) 
