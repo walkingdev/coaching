@@ -71,7 +71,7 @@ Pour ce montant tu pourras manger, voyager et boire durant toute la journée.
 
 ### Et où passe tout ce butin ?
 
-Difficile à dire aujourd’hui, vu qu’on en sait rien. Par contre tu peux te faire une bonne idée en regardant la " [compta](http://walkingdev.fr/#walkingdev/coaching/blob/master/v34/budget.md)  " de la dernière session.  
+Difficile à dire aujourd’hui, vu qu’on en sait rien. Par contre tu peux te faire une idée en regardant la [compta](http://walkingdev.fr/#walkingdev/elm/blob/master/v34/budget.md) d'une session précédente.  
 
 ### Et si c’est trop cher pour moi ?
 
@@ -89,5 +89,3 @@ C'est pas très explicite, mais en cherchant on trouve quand même facilement le
 
 Tu peux contacter :
 - Christophe - [@twitter](http://twitter.com/krichtof) (dm ouvert)
-ou
-- Stéphane - [@langlois_s](http://twitter.com/langlois_s) (dm ouvert aussi) 
