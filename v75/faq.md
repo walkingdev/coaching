@@ -10,7 +10,7 @@ image_url: https://github.com/walkingdev/coaching/blob/master/v75/media/banner-c
 
 ### On va faire quoi ?
 
-L'idée c'est d'échanger sur les premiers pas d'un coach ou futur coach, et en même temps visiter des endroits insolites.
+L'idée, c'est d'échanger sur les premiers pas d'un coach ou futur coach, et en même temps visiter des endroits insolites.
 Dans un lieu, en binôme ou en groupe on explore une partie du sujet, via des petits ateliers, présentations, questionnements ou autres expérimentations puis on passe à l'endroit suivant.
 On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
@@ -22,8 +22,8 @@ Et, ça se termine vers 19h pour enchainer sur des trucs encore plus informels.
 ### C'est pour qui ?
 
 - Les personnes qui se disent "tiens, si je devenais coach"
-- Les coach juniors ou seniors qui veulent partager leur expérience
-- Les personnes qui se disent "les coach, encore un truc de charlatan !"
+- Les coachs juniors ou seniors qui veulent partager leur expérience
+- Les personnes qui se disent "les coachs, encore un truc de charlatan !"
 
 Bref, vous l'aurez compris, tout le monde peut venir !
 
@@ -37,7 +37,6 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 Ben non. Enfin, ça dépend de toi. Il n'y aura pas de prof venant dispenser la bonne parole, juste des gens explorant le sujet.
 
-(http://walkingdev.fr/#walkingdev/coaching/blob/master/v75/prepare-ton-escapade.md)
 On essaye de t'offrir un [contexte](http://walkingdev.fr/#walkingdev/coaching/blob/master/v75/contexte.md) pour apprendre des choses et obtenir de l’aide quand tu le souhaites.
 
 ### On sera combien ?
