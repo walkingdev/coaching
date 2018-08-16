@@ -13,3 +13,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/coaching/b
 * Robillard - Christophe - christophe@robiweb.net - @krichtof
 * Langlois - Stéphane - stephane@scopyleft.fr - @langlois_s
 * Blayo - Philippe - prénom point nom chez gmail point com - @pblayo
+* Bossavit - Laurent - laurent.bossavit at beta.gouv.fr - @morendil
