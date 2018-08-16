@@ -37,7 +37,8 @@ En vrai, on prendra soin de t’accompagner pour que tu puisses explorer avec no
 
 Ben non. Enfin, ça dépend de toi. Il n'y aura pas de prof venant dispenser la bonne parole, juste des gens explorant le sujet.
 
-On essaye de t'offrir un contexte pour apprendre des choses et obtenir de l’aide quand tu le souhaites.
+(http://walkingdev.fr/#walkingdev/coaching/blob/master/v75/prepare-ton-escapade.md)
+On essaye de t'offrir un [contexte](http://walkingdev.fr/#walkingdev/coaching/blob/master/v75/contexte.md) pour apprendre des choses et obtenir de l’aide quand tu le souhaites.
 
 ### On sera combien ?
 
