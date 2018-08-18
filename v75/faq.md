@@ -16,8 +16,8 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
 
-La marche commencera le 31 août à 9h30 à Paris
-Et, ça se termine vers 19h pour enchainer sur des trucs encore plus informels.
+- La marche commencera le 31 août à 9h30 à Paris (le lieu précis te sera communiqué par mail d'ici le 29/08)
+- Et, ça se termine vers 19h pour enchainer sur des trucs encore plus informels.
 
 ### C'est pour qui ?
 
