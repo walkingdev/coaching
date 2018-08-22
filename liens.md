@@ -25,4 +25,4 @@ image_url: https://github.com/walkingdev/coaching/blob/master/v75/media/banner-c
 - [Thinking, Fast and Slow](https://www.amazon.fr/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576) (Daniel Kahneman)
 - [Rework](https://www.amazon.fr/Rework-Jason-Fried/dp/0307463745) (Jason Fried, David Heinemeier Hansson)
 - [La communication non violente au quotidien](https://www.amazon.fr/communication-non-violente-quotidien/dp/288911905X) (Marshall B. Rosenberg)
-
+- [The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.fr/Phoenix-Project-DevOps-Helping-Business/dp/0988262509) (Gene Kim, Kevin Behr, George Spafford)
