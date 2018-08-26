@@ -15,3 +15,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/coaching/b
 * Blayo - Philippe - prénom point nom chez gmail point com - @pblayo
 * Bossavit - Laurent - laurent.bossavit at beta.gouv.fr - @morendil
 * Mallet - Eric - prenom point nom chez ritmx point com
+* Tregan - Fabien - @ftregan (ou prenom at nom point fr)
