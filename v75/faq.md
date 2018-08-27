@@ -85,6 +85,10 @@ Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végéta
 
 C'est pas très explicite, mais en cherchant on trouve quand même facilement le pourquoi du comment.
 
+### C'est à Paris, je n'habite pas Paris et l'hôtel, c'est cher et pas chaleureux. Je fais comment ?
+
+Cela tombe bien, on a pensé à toi ! Il arrive parfois que des participants parisiens t'accueillent pour une nuit ou 2. Et [c'est par ici que ça se passe](https://github.com/walkingdev/coaching/edit/master/v75/hebergement.md) !
+
 #### Et si j'ai une question ?
 
 Tu peux contacter :
