@@ -17,3 +17,4 @@ Pour plus d'infos, consulte la [FAQ](http://walkingdev.fr/#walkingdev/coaching/b
 * Mallet - Eric - prenom point nom chez ritmx point com
 * Tregan - Fabien - @ftregan (ou prenom at nom point fr)
 * Wolff - Thomas - thomas at lesvigies.fr
+* Schneider - Matti - @matti_sg_fr
