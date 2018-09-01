@@ -16,7 +16,7 @@ Laurent B
 
 => 300
 
-*Préparation* :
+*Préparation* :  
 Restaurant : 34,00  
 Train : 50,00  
 
